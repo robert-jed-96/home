@@ -163,7 +163,6 @@ body {background: var(--bg);}
 .main {
     max-width: 1440px;
     margin: 0 auto;
-    padding: 58px var(--gutter) 96px;
 }
 
 .main__custom {
